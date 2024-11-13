@@ -1,0 +1,1429 @@
+
+	
+
+	
+/*media quries for galaxi fold device. resolution 279px-319px */
+
+@media (min-width:279px) and (max-width:319px){
+	/*css start	*/
+	
+	.container{
+		width:100%;
+		margin:0px 0px;
+		
+	}
+	.header{
+		width:100%;
+		padding:0px 0px;
+	}
+	.left-inner-navbar{
+		margin:0px 0px;
+
+	}
+	.logo{
+		width:100px;
+		
+		
+
+	}
+	.navbar{
+		width:100%;
+		padding:0px 0px;
+		display: block;
+		text-align: center;
+		
+
+		
+	}
+	.navbar li a{
+		font-size: 8px;
+		line-height: 1.7em;
+		padding:5px 0px;
+		
+	
+	}
+
+	.inner-banner h1{
+		font-size: 20px;
+		line-height: 1.2em;
+	
+	}
+	.inner-banner h1 span{
+		font-size: 20px;
+		line-height: 1.2em;
+		
+		
+	}
+	.inner-banner p{
+		font-size: 8px;
+		line-height: 1.2em;
+		
+	}
+
+	.succesful{
+		width:100%;
+	}
+	.inner-succesful-section{
+		width:100%;
+		display: block;
+		
+	
+	
+	}
+	.left-inner-succesful{
+		flex-basis: 50%;
+		text-align: left;
+		margin:0px 15px;
+		padding:0px 0px 25px;
+		
+	
+	}
+	
+	.left-inner-succesful h1{
+		font-size: 20px;
+		line-height: 1.2em;
+	
+		
+		
+	}
+	.left-inner-succesful p{
+		font-size: 8px;
+		line-height: 1.7em;
+	
+	}
+	
+	.right-inner-succesful{
+		
+		margin:0px 0px 0px 15px
+	
+	}
+	.right-inner-succesful h1{
+		font-size: 20px;
+		font-weight: 500px;
+		line-height: 1.2em;
+		
+	
+	}
+
+	.feature{
+		width:100%
+	}
+	.inner-feature {
+		width: 100%;
+		display:block;
+	}
+	.all{
+		width:90%;
+		margin:15px 15px;
+	}
+
+
+	/*css end*/
+	}
+
+
+
+
+
+
+	/*media quries for most of the mobile devices. resolution 320px-480px*/
+
+	@media (min-width:320px) and (max-width:480px){
+	/*css start	*/
+
+
+	.container{
+		width:100%;
+		margin:0px 0px;
+		
+	}
+	.header{
+		width:100%;
+		padding:0px 0px;
+	}
+	.left-inner-navbar{
+		margin:0px 5px;
+
+	}
+	.logo{
+		width:100px;
+		
+		
+
+	}
+	.navbar{
+		width:100%;
+		padding:0px 0px;
+		display: block;
+		text-align: center;
+
+		
+	}
+	.navbar li a{
+		font-size: 10px;
+		line-height: 1.7em;
+		padding:15px 5px;
+		
+	
+	}
+
+	.inner-banner h1{
+		font-size: 22px;
+		line-height: 1.2em;
+	
+	}
+	.inner-banner h1 span{
+		font-size: 22px;
+		line-height: 1.2em;
+		
+		
+	}
+	.inner-banner p{
+		font-size: 11px;
+		line-height: 1.2em;
+		
+	}
+
+	.succesful{
+		width:100%;
+	}
+	.inner-succesful-section{
+		width:100%;
+		display: block;
+		
+	
+	
+	}
+	.left-inner-succesful{
+		flex-basis: 50%;
+		text-align: left;
+		margin:0px 20px;
+		padding:0px 0px 30px;
+		
+	
+	}
+	
+	.left-inner-succesful h1{
+		font-size: 22px;
+		line-height: 1.2em;
+	
+		
+		
+	}
+	.left-inner-succesful p{
+		font-size: 11px;
+		line-height: 1.7em;
+	
+	}
+	
+	.right-inner-succesful{
+		
+		margin:0px 0px 0px 20px
+	
+	}
+	.right-inner-succesful h1{
+		font-size: 22px;
+		font-weight: 500px;
+		line-height: 1.2em;
+		
+	
+	}
+
+	.feature{
+		width:100%
+	}
+	.inner-feature {
+		width: 100%;
+		display:block;
+	}
+	.all{
+		width:90%;
+		margin:20px 20px;
+	}
+
+	/*css end*/
+	}
+
+
+
+	/*media quries for high resolution mobiles and low resolution tablet/ tab. resolution 481px-767px*/
+
+	@media(min-width:481px) and (max-width:767px){
+	/*css start	*/
+
+	.container{
+		width:100%;
+		margin:0px 0px;
+		
+	}
+	.header{
+		width:100%;
+		padding:0px 0px;
+	}
+	.left-inner-navbar{
+		margin:0px 10px;
+
+	}
+	.logo{
+		width:30px;
+		padding:15px 0px 0px 0px;
+		
+
+	}
+	.navbar{
+		width:100%;
+		padding:0px 0px;
+		
+	}
+	.navbar li a{
+		font-size: 10px;
+		line-height: 1.7em;
+		padding:25px 6px 10px 6px;
+	
+	}
+
+	.inner-banner h1{
+		font-size: 24px;
+		line-height: 1.2em;
+	
+	}
+	.inner-banner h1 span{
+		font-size: 24px;
+		line-height: 1.2em;
+		
+		
+	}
+	.inner-banner p{
+		font-size: 13px;
+		line-height: 1.2em;
+		
+	}
+
+	.succesful{
+		width:100%;
+	}
+	.inner-succesful-section{
+		width:100%;
+		display: block;
+		
+	
+	
+	}
+	.left-inner-succesful{
+		flex-basis: 50%;
+		text-align: left;
+		margin:0px 25px;
+		padding:0px 0px 35px;
+		
+	
+	}
+	
+	.left-inner-succesful h1{
+		font-size: 24px;
+		line-height: 1.2em;
+	
+		
+		
+	}
+	.left-inner-succesful p{
+		font-size: 13px;
+		line-height: 1.7em;
+	
+	}
+	
+	.right-inner-succesful{
+		
+		margin:0px 0px 0px 25px
+	
+	}
+	.right-inner-succesful h1{
+		font-size: 24px;
+		font-weight: 500px;
+		line-height: 1.2em;
+		
+	
+	}
+
+	.feature{
+		width:100%
+	}
+	.inner-feature {
+		width: 100%;
+		display:block;
+	}
+	.all{
+		width:90%;
+		margin:25px 25px;
+	}
+
+	
+	/*css end*/
+}
+
+
+
+
+	/*media quries for high resolution tablet/tab, note book. resolution 768px-1024px*/
+
+	@media (min-width:768px) and (max-width:1024px){
+	/*css start	*/
+
+	.container{
+		width:100%;
+		margin:0px 0px;
+		
+	}
+	.header{
+		width:100%;
+		padding:0px 0px;
+	}
+	.left-inner-navbar{
+		margin:0px 15px;
+
+	}
+	.logo{
+		width:30px;
+		padding:20px 0px 0px 0px;
+		
+
+	}
+	.navbar{
+		width:100%;
+		padding:0px 0px;
+		
+	}
+	.navbar li a{
+		font-size: 14px;
+		line-height: 1.7em;
+		padding:30px 11px 15px 11px;
+	
+	}
+
+	.inner-banner h1{
+		font-size: 26px;
+		line-height: 1.2em;
+	
+	}
+	.inner-banner h1 span{
+		font-size: 26px;
+		line-height: 1.2em;
+		
+		
+	}
+	.inner-banner p{
+		font-size: 14px;
+		line-height: 1.2em;
+		
+	}
+
+	.succesful{
+		width:100%;
+	}
+	.inner-succesful-section{
+		width:100%;
+		display: block;
+		
+	
+	
+	}
+	.left-inner-succesful{
+		flex-basis: 50%;
+		text-align: left;
+		margin:0px 30px;
+		padding:0px 0px 40px;
+		
+	
+	}
+	
+	.left-inner-succesful h1{
+		font-size: 26px;
+		line-height: 1.2em;
+	
+		
+		
+	}
+	.left-inner-succesful p{
+		font-size: 14px;
+		line-height: 1.7em;
+	
+	}
+	
+	.right-inner-succesful{
+		
+		margin:0px 0px 0px 30px
+	
+	}
+	.right-inner-succesful h1{
+		font-size: 26px;
+		font-weight: 500px;
+		line-height: 1.2em;
+		
+	
+	}
+
+	.feature{
+		width:100%
+	}
+	.inner-feature {
+		width: 100%;
+		display:block;
+	}
+	.all{
+		width:90%;
+		margin:30px 30px;
+	}
+
+	/*css end*/
+	}
+
+
+
+
+
+	
+
+	/* contact page media quries start */
+
+	/* media quries for galaxy fold device. screen resolution 481px-767px */
+	@media (min-width:279px) and (max-width-319px){
+	/* css start */
+
+	.container{
+		width:95%;
+		
+	}
+	.header{
+		width:100%;
+		padding:0px 0px;
+	}
+	.left-inner-navbar{
+		margin:0px 0px;
+
+	}
+	.logo{
+		width:100px;
+		
+		
+
+	}
+	.navbar{
+		width:100%;
+		padding:0px 0px;
+		display: block;
+		text-align: center;
+		
+
+		
+	}
+	.navbar li a{
+		font-size: 8px;
+		line-height: 1.7em;
+		padding:5px 0px;
+		
+	
+	}
+	.contact{
+		width:100%;
+		
+	
+	}
+	.form{
+		width: 100%;
+		padding:15px 0px;
+		border:1px solid;
+		border-radius: 5px;
+		background: #eee;
+		margin:0px auto;
+	
+		
+	}
+	.form h1{
+		font-size: 30px;
+		line-height: 1.2em;
+		
+	}
+	.group{
+		width:100%;
+		font-size: 20px;
+		font-weight: 600;
+		line-height: 40px;
+	
+	}
+	.group label{
+		display: block;
+	
+	}
+	.inputs{
+		width:80%;
+		display: block;
+		
+	
+	}
+
+	
+	/* css end */
+	}
+
+
+
+
+
+	/*media quries for galaxi fold device. resolution 279px-319px */
+
+	@media (min-width:319px) and (max-width:480px){
+	/*css start	*/
+	.container{
+		width:95%;
+		
+	}
+	.header{
+		width:100%;
+		padding:0px 0px;
+	}
+	.left-inner-navbar{
+		margin:0px 0px;
+
+	}
+	.logo{
+		width:100px;
+		
+		
+
+	}
+	.navbar{
+		width:100%;
+		padding:0px 0px;
+		display: block;
+		text-align: center;
+		
+
+		
+	}
+	.navbar li a{
+		font-size: 11px;
+		line-height: 1.7em;
+		padding:5px 0px;
+		
+	
+	}
+	.contact{
+		width:100%;
+		
+	
+	}
+	.form{
+		width: 100%;
+		padding:20px 0px;
+		border:1px solid;
+		border-radius: 10px;
+		background: #eee;
+		margin:0px auto;
+	
+		
+	}
+	.form h1{
+		font-size: 32px;
+		line-height: 1.2em;
+		
+	}
+	.group{
+		width:100%;
+		font-size: 25px;
+		font-weight: 600;
+		line-height: 40px;
+	
+	}
+	.group label{
+		display: block;
+	
+	}
+	.inputs{
+		width:80%;
+		display: block;
+		
+	
+	}
+	
+	
+	
+
+	
+	
+	
+
+
+	/*css end*/
+	}
+
+		/* media quries for low resulation tablet/ tab and high resulation mobile device. screen resolution 481px-767px */
+		@media (min-width:481px) and (max-width-767px){
+		/* css start */
+
+		.container{
+			width:95%;
+			
+		}
+		.header{
+			width:100%;
+			padding:0px 0px;
+		}
+		.left-inner-navbar{
+			margin:0px 0px;
+	
+		}
+		.logo{
+			width:100px;
+			
+			
+	
+		}
+		.navbar{
+			width:100%;
+			padding:0px 0px;
+			display: block;
+			text-align: center;
+			
+	
+			
+		}
+		.navbar li a{
+			font-size: 13px;
+			line-height: 1.7em;
+			padding:5px 0px;
+			
+		
+		}
+		.contact{
+			width:100%;
+			
+		
+		}
+		.form{
+			width: 100%;
+			padding:25px 0px;
+			border:6px solid;
+			border-radius: 10px;
+			background: #eee;
+			margin:0px auto;
+		
+			
+		}
+		.form h1{
+			font-size: 34px;
+			line-height: 1.2em;
+			
+		}
+		.group{
+			width:100%;
+			font-size: 30px;
+			font-weight: 600;
+			line-height: 40px;
+		
+		}
+		.group label{
+			display: block;
+		
+		}
+		.inputs{
+			width:80%;
+			display: block;
+			
+		
+		}
+
+		
+
+
+
+		/* css end */
+		}
+
+		/* media quries for low resulation tablet/ tab and high resulation mobile device. screen resolution 768px-1024px */
+		@media (min-width:768px) and (max-width-1024px){
+			/* css start */
+			.container{
+				width:95%;
+				
+			}
+			.header{
+				width:100%;
+				padding:0px 0px;
+			}
+			.left-inner-navbar{
+				margin:0px 0px;
+		
+			}
+			.logo{
+				width:100px;
+				
+				
+		
+			}
+			.navbar{
+				width:100%;
+				padding:0px 0px;
+				display: block;
+				text-align: center;
+				
+		
+				
+			}
+			.navbar li a{
+				font-size: 14px;
+				line-height: 1.7em;
+				padding:5px 0px;
+				
+			
+			}
+			.contact{
+				width:100%;
+				
+			
+			}
+			.form{
+				width: 100%;
+				padding:30px 0px;
+				border:11px solid;
+				border-radius: 10px;
+				background: #eee;
+				margin:0px auto;
+			
+				
+			}
+			.form h1{
+				font-size: 36px;
+				line-height: 1.2em;
+				
+			}
+			.group{
+				width:100%;
+				font-size: 32px;
+				font-weight: 600;
+				line-height: 42px;
+			
+			}
+			.group label{
+				display: block;
+			
+			}
+			.inputs{
+				width:80%;
+				display: block;
+				
+			
+			}
+	
+
+			
+	
+			/* css end */
+			}
+	
+	
+
+	/* contact page media quries end */
+
+	/* support page media quries start */
+
+
+
+	/* media quries for galaxy z fold device. screen resouution:279px-319px */
+
+
+	@media (min-width:279px) and (max-width:319px){
+		/* css start */
+		.section{
+			width:100%;
+			
+		}
+		.container{
+			width:95%;
+			margin:0px auto;
+		
+		}
+		.inner-section{
+			width:100%;
+			padding:35px 0px;
+			
+		}
+		.img{
+			width:200px;
+		}
+		.div-two{
+			
+		}
+		.btnn{
+			padding:15px 45px;
+			
+		}
+		
+		.div-three h1{
+			font-size: 22px;
+			font-weight: 700;
+			line-height: 1.2em;
+			
+		
+		}
+		.div-three p{
+			font-size: 10px;
+			line-height: 1.7em;
+			color:#0665C4;
+			text-transform: capitalize;
+		
+		}
+		
+
+
+
+
+		/* css end */
+	}
+
+
+
+
+	/* media quries for most of the mobile devices. screen resouution:319px-480px */
+
+
+	@media (min-width:319px) and (max-width:480px){
+		/* css start */
+
+		.section{
+			width:100%;
+			
+		}
+		.container{
+			width:95%;
+			margin:0px auto;
+		
+		}
+		.inner-section{
+			width:100%;
+			padding:40px 0px;
+			
+		}
+		.img{
+			width:200px;
+		}
+		.div-two{
+			
+		}
+		.btnn{
+			padding:20px 50px;
+			
+		}
+		
+		.div-three h1{
+			font-size: 24px;
+			font-weight: 700;
+			line-height: 1.2em;
+			
+		
+		}
+		.div-three p{
+			font-size: 11px;
+			line-height: 1.7em;
+			color:#0665C4;
+			text-transform: capitalize;
+		
+		}
+		
+
+
+		/* css end */
+	}
+
+
+
+
+	/* media quries for high resolution mobile and low resolution tablet/tab devices. screen resouution:481px-767px */
+
+
+	@media (min-width:481px) and (max-width:767px){
+		/* css start */
+
+		.section{
+			width:100%;
+			
+		}
+		.container{
+			width:95%;
+			margin:0px auto;
+		
+		}
+		.inner-section{
+			width:100%;
+			padding:40px 0px;
+			
+		}
+		.img{
+			width:200px;
+		}
+		.div-two{
+			
+		}
+		.btnn{
+			padding:25px 55px;
+			
+		}
+		
+		.div-three h1{
+			font-size: 26px;
+			font-weight: 700;
+			line-height: 1.2em;
+			
+		
+		}
+		.div-three p{
+			font-size: 12px;
+			line-height: 1.7em;
+			color:#0665C4;
+			text-transform: capitalize;
+		
+		}
+		
+
+
+
+
+		/* css end */
+	}
+
+
+
+
+
+	/* media quries for tablet/tab and mini note book devices. screen resouution:768px-1024px */
+
+
+	@media (min-width:768px) and (max-width:1024px){
+		/* css start */
+		.section{
+			width:100%;
+			
+		}
+		.container{
+			width:95%;
+			margin:0px auto;
+		
+		}
+		.inner-section{
+			width:100%;
+			padding:45px 0px;
+			
+		}
+		.img{
+			width:200px;
+		}
+		.div-two{
+			
+		}
+		.btnn{
+			padding:30px 60px;
+			
+		}
+		
+		.div-three h1{
+			font-size: 28px;
+			font-weight: 700;
+			line-height: 1.2em;
+			
+		
+		}
+		.div-three p{
+			font-size: 14px;
+			line-height: 1.7em;
+			color:#0665C4;
+			text-transform: capitalize;
+		
+		}
+		
+
+
+		/* css end */
+	}
+
+
+	/* support page media quries end */
+
+	/* aboutus page media quries start */
+
+	/* css media quries for most of the mobile devices. screen resolution-279px-319px */
+	@media (min-width:279px) and (max-width:319px){
+	/* css start */
+	.header2{
+		width: 100%;
+		
+	}
+	
+	.description{
+		width:100%;
+		
+	}
+	
+	.aboutus h1{
+		font-size: 22px;
+		line-height: 1.2em;
+		
+	}
+	.aboutus p{
+		font-size: 9px;
+		line-height: 1.7em;
+		
+	
+	}
+	
+
+	/* css end */
+	}
+
+	/* css media quries for most of the mobile devices. screen resolution-320px-480px */
+	@media (min-width:320px) and (max-width:480px){
+		/* css start */
+		.header2{
+			width: 100%;
+			
+		}
+		
+		.description{
+			width:100%;
+			
+		}
+		
+		.aboutus h1{
+			font-size: 10px;
+			line-height: 1.2em;
+			
+		}
+		.aboutus p{
+			font-size: 11px;
+			line-height: 1.7em;
+			
+		
+		}
+		
+		
+	
+		/* css end */
+		}
+
+
+
+		/* css media quries for most of the mobile devices. screen resolution-481px-767px */
+	@media (min-width:481px) and (max-width:767px){
+		/* css start */
+
+		.header2{
+			width: 100%;
+			
+		}
+		
+		.description{
+			width:100%;
+			
+		}
+		
+		.aboutus h1{
+			font-size: 26px;
+			line-height: 1.2em;
+			
+		}
+		.aboutus p{
+			font-size: 13px;
+			line-height: 1.7em;
+			
+		
+		}
+		
+	
+		/* css end */
+		}
+
+
+		/* css media quries for most of the mobile devices. screen resolution-768px-1024px */
+	@media (min-width:768px) and (max-width:1024px){
+		/* css start */
+		.header2{
+			width: 100%;
+			
+		}
+		
+		.description{
+			width:100%;
+			
+		}
+		
+		.aboutus h1{
+			font-size: 28px;
+			line-height: 1.2em;
+			
+		}
+		.aboutus p{
+			font-size: 14px;
+			line-height: 1.7em;
+			
+		
+		}
+	
+		/* css end */
+		}
+
+
+
+	/* about us page media quries end */
+
+	/* course page start */
+
+
+	/* css media for most mobile devices resulation:319px-480px */
+
+	@media (min-width:279px) and (max-width:319px){
+	/* css start */
+	.course{
+		width:100%;
+		
+	}
+	.inner-course{
+		width:100%;
+		padding:100px 0px;
+	}
+
+
+	/* css start */
+	}
+	
+
+
+	/* css media for most mobile devices resulation:320px-480px */
+
+	@media (min-width:320px) and (max-width:480px){
+		/* css start */
+		.course{
+			width:100%;
+			
+		}
+		.inner-course{
+			width:100%;
+			padding:100px 0px;
+		}
+		
+	
+		/* css start */
+		}
+
+
+
+		/* css media for most mobile devices resulation:481px-767px */
+
+	@media (min-width:481px) and (max-width:767px){
+		/* css start */
+		.course{
+			width:100%;
+			
+		}
+		.inner-course{
+			width:100%;
+			padding:100px 0px;
+		}
+	
+	
+		/* css start */
+		}
+
+
+
+
+		/* css media for most mobile devices resulation:768px-1024px */
+
+	@media (min-width:768px) and (max-width:1024px){
+		/* css start */
+		.course{
+			width:100%;
+			
+		}
+		.inner-course{
+			width:100%;
+			padding:100px 0px;
+		}
+	
+	
+		/* css start */
+		}
+
+
+		/* course page end */
+
+		/* doc page media quries start */
+		/* media quries for galaxy fold */
+
+		@media (min-width:279px) and (max-width:319px){
+			/* css start */
+
+		/* css end */
+		}
+
+
+		/* media quries for galaxy fold */
+
+		@media (min-width:279px) and (max-width:319px){
+			/* css start */
+
+			.my{
+				width:100%;
+			}
+			.inner-my{
+				width:100%;
+			}
+			.inner-my h1{
+				font-size: 20px;
+				line-height: 1.2em;
+				
+			
+			}
+			.inner-my h3{
+				font-size: 18px;
+				line-height: 1.2em;
+				
+				
+			}
+			.inner-my p{
+				font-size: 9px;
+				line-height: 30px;
+				color:#0F2656;
+				padding: 20px 0px;
+			
+			}
+			.mentor{
+				width:200px;
+			}
+
+
+		/* css end */
+		}
+
+
+
+		/* media quries for most of the mobile device */
+
+		@media (min-width:320px) and (max-width:480px){
+			/* css start */
+			.my{
+				width:100%;
+			}
+			.inner-my{
+				width:100%;
+			}
+			.inner-my h1{
+				font-size: 24px;
+				line-height: 1.2em;
+				
+			
+			}
+			.inner-my h3{
+				font-size: 20px;
+				line-height: 1.2em;
+				
+				
+			}
+			.inner-my p{
+				font-size: 11px;
+				line-height: 30px;
+				color:#0F2656;
+				padding: 20px 0px;
+			
+			}
+			.mentor{
+				width:200px;
+			}
+
+		/* css end */
+		}
+
+
+
+		/* media quries for hight resulation mobile and low resulation tablet/tab */
+
+		@media (min-width:481px) and (max-width:767px){
+			/* css start */
+
+			.my{
+				width:100%;
+			}
+			.inner-my{
+				width:100%;
+			}
+			.inner-my h1{
+				font-size: 26px;
+				line-height: 1.2em;
+				
+			
+			}
+			.inner-my h3{
+				font-size: 22px;
+				line-height: 1.2em;
+				
+				
+			}
+			.inner-my p{
+				font-size: 13px;
+				line-height: 30px;
+				color:#0F2656;
+				padding: 20px 0px;
+			
+			}
+			.mentor{
+				width:200px;
+			}
+
+
+		/* css end */
+		}
+		/* media quries for tablet/tab and mini note book */
+
+		@media (min-width:768px) and (max-width:1024px){
+			/* css start */
+
+			.my{
+				width:100%;
+			}
+			.inner-my{
+				width:100%;
+			}
+			.inner-my h1{
+				font-size: 28px;
+				line-height: 1.2em;
+				
+			
+			}
+			.inner-my h3{
+				font-size: 24px;
+				line-height: 1.2em;
+				
+				
+			}
+			.inner-my p{
+				font-size: 15px;
+				line-height: 30px;
+				color:#0F2656;
+				padding: 20px 0px;
+			
+			}
+			.mentor{
+				width:200px;
+			}
+
+		/* css end */
+		}
+
+
+
+		/* doc page media quries end */
+
+	
+
+
+
+
+
+
+
